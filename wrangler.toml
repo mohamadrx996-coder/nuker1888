@@ -12,8 +12,8 @@ UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 
 [[kv_namespaces]]
 binding = "CACHE"
-id = "your-kv-namespace-id"
-preview_id = "your-preview-kv-id"
+id = "71ed58a9e55f420fb42e273726a32068"
+preview_id = "71ed58a9e55f420fb42e273726a32068"
 
 [observability]
 enabled = true
